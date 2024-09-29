@@ -1,4 +1,4 @@
-# torb
+# torb (To Recycle Bin)
 
 ## 이게 뭔데? (What is this?)
 
