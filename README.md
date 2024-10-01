@@ -32,5 +32,4 @@ go build -o ./torb.exe .
 
 * VSCode
 * Paint.NET
-* Garbage icons created by Ridho Imam Prayogi - Flaticon
-  * [garbage icons](https://www.flaticon.com/free-icons/garbage)
+* [Recyle bin icons created by Ridho Imam Prayogi - Flaticon](https://www.flaticon.com/free-icons/recyle-bin)
